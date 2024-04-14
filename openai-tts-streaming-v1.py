@@ -35,6 +35,7 @@ def stream_to_speakers() -> None:
           
         # prevents end glitch at playback
         sleep(1) 
+        
     print(f"Done in {int((time.time() - start_time) * 1000)}ms.")
 
 def main() -> None:
