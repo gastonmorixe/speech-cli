@@ -8,6 +8,8 @@ Speech cli for all online, offline, AI, non-AI, free and paid  TTS models & Ran
 ## Models
 
 - OpenAI [Text to speech with Streaming and Playback](https://platform.openai.com/docs/guides/text-to-speech): `openai-tts-streaming-v1.py`
+- [ ] ElevenLabs
+- [ ] Native Apple's macOS TTS
 
 ## Instructions
 We want to make this versatile so we always accept STDIN. 
